@@ -23,4 +23,10 @@ body {
    text-align: center;
    font-size: 1.2rem;
    border-bottom: 1px solid black;
+   transition: background-color 0.3s;
+}
+
+.nav ul li:hover{
+    background-color: black;
+
 }
